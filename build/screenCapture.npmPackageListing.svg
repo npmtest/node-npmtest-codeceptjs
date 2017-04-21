@@ -1,140 +1,140 @@
 <svg height="2190" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2190" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 07:01:07 +0000   569487 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 07:01:07 +0000    15932 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 07:01:07 +0000     1120 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 07:01:07 +0000    10076 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 07:01:07 +0000     4386 bytes  bin/codecept.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 07:01:07 +0000     7946 bytes  docs/acceptance.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 07:01:07 +0000     3020 bytes  docs/advanced.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 07:01:07 +0000    10262 bytes  docs/angular.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 07:01:07 +0000      853 bytes  docs/api/codecept.md</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 07:01:07 +0000      625 bytes  docs/api/config.md</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 07:01:07 +0000      669 bytes  docs/api/container.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 07:01:07 +0000      921 bytes  docs/api/helper.md</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 07:01:07 +0000      493 bytes  docs/api/output.md</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 07:01:07 +0000      757 bytes  docs/api/recorder.md</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 07:01:07 +0000     6819 bytes  docs/basics.md</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 07:01:07 +0000     2405 bytes  docs/build/FileSystem.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 07:01:07 +0000    41516 bytes  docs/build/Nightmare.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 07:01:07 +0000    26756 bytes  docs/build/Protractor.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 07:01:07 +0000    38895 bytes  docs/build/SeleniumWebdriver.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 07:01:07 +0000    49599 bytes  docs/build/WebDriverIO.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 07:01:07 +0000     2201 bytes  docs/commands.md</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 07:01:07 +0000     2623 bytes  docs/configuration.md</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 07:01:07 +0000     2113 bytes  docs/docker.md</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 07:01:07 +0000     6209 bytes  docs/helpers.md</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 07:01:07 +0000     1014 bytes  docs/helpers/FileSystem.md</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 07:01:07 +0000    16839 bytes  docs/helpers/Nightmare.md</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 07:01:07 +0000    16907 bytes  docs/helpers/Protractor.md</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 07:01:07 +0000    17535 bytes  docs/helpers/SeleniumWebdriver.md</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 07:01:07 +0000    24250 bytes  docs/helpers/WebDriverIO.md</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 07:01:07 +0000     9255 bytes  docs/hooks.md</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 07:01:07 +0000        0 bytes  docs/index.md</tspan>
-<tspan x="10" y="522"> 31.  2017-04-21 07:01:07 +0000     2473 bytes  docs/installation.md</tspan>
-<tspan x="10" y="538"> 32.  2017-04-21 07:01:07 +0000     8274 bytes  docs/nightmare.md</tspan>
-<tspan x="10" y="554"> 33.  2017-04-21 07:01:07 +0000     4005 bytes  docs/pageobjects.md</tspan>
-<tspan x="10" y="570"> 34.  2017-04-21 07:01:07 +0000     3873 bytes  docs/quickstart.md</tspan>
-<tspan x="10" y="586"> 35.  2017-04-21 07:01:07 +0000     3609 bytes  docs/reports.md</tspan>
-<tspan x="10" y="602"> 36.  2017-04-21 07:01:07 +0000     2677 bytes  docs/translation.md</tspan>
-<tspan x="10" y="618"> 37.  2017-04-21 07:01:07 +0000      338 bytes  docs/webapi/amOnPage.mustache</tspan>
-<tspan x="10" y="634"> 38.  2017-04-21 07:01:07 +0000      226 bytes  docs/webapi/appendField.mustache</tspan>
-<tspan x="10" y="650"> 39.  2017-04-21 07:01:07 +0000      476 bytes  docs/webapi/attachFile.mustache</tspan>
-<tspan x="10" y="666"> 40.  2017-04-21 07:01:07 +0000      439 bytes  docs/webapi/checkOption.mustache</tspan>
-<tspan x="10" y="682"> 41.  2017-04-21 07:01:07 +0000      136 bytes  docs/webapi/clearCookie.mustache</tspan>
-<tspan x="10" y="698"> 42.  2017-04-21 07:01:07 +0000      203 bytes  docs/webapi/clearField.mustache</tspan>
-<tspan x="10" y="714"> 43.  2017-04-21 07:01:07 +0000      911 bytes  docs/webapi/click.mustache</tspan>
-<tspan x="10" y="730"> 44.  2017-04-21 07:01:07 +0000      302 bytes  docs/webapi/dontSee.mustache</tspan>
-<tspan x="10" y="746"> 45.  2017-04-21 07:01:07 +0000      114 bytes  docs/webapi/dontSeeCheckboxIsChecked.mustache</tspan>
-<tspan x="10" y="762"> 46.  2017-04-21 07:01:07 +0000       63 bytes  docs/webapi/dontSeeCookie.mustache</tspan>
-<tspan x="10" y="778"> 47.  2017-04-21 07:01:07 +0000      135 bytes  docs/webapi/dontSeeCurrentUrlEquals.mustache</tspan>
-<tspan x="10" y="794"> 48.  2017-04-21 07:01:07 +0000      112 bytes  docs/webapi/dontSeeElement.mustache</tspan>
-<tspan x="10" y="810"> 49.  2017-04-21 07:01:07 +0000      118 bytes  docs/webapi/dontSeeElementInDOM.mustache</tspan>
-<tspan x="10" y="826"> 50.  2017-04-21 07:01:07 +0000       73 bytes  docs/webapi/dontSeeInCurrentUrl.mustache</tspan>
-<tspan x="10" y="842"> 51.  2017-04-21 07:01:07 +0000      208 bytes  docs/webapi/dontSeeInField.mustache</tspan>
-<tspan x="10" y="858"> 52.  2017-04-21 07:01:07 +0000       90 bytes  docs/webapi/dontSeeInSource.mustache</tspan>
-<tspan x="10" y="874"> 53.  2017-04-21 07:01:07 +0000       53 bytes  docs/webapi/dontSeeInTitle.mustache</tspan>
-<tspan x="10" y="890"> 54.  2017-04-21 07:01:07 +0000      310 bytes  docs/webapi/doubleClick.mustache</tspan>
-<tspan x="10" y="906"> 55.  2017-04-21 07:01:07 +0000      802 bytes  docs/webapi/executeAsyncScript.mustache</tspan>
-<tspan x="10" y="922"> 56.  2017-04-21 07:01:07 +0000      745 bytes  docs/webapi/executeScript.mustache</tspan>
-<tspan x="10" y="938"> 57.  2017-04-21 07:01:07 +0000      465 bytes  docs/webapi/fillField.mustache</tspan>
-<tspan x="10" y="954"> 58.  2017-04-21 07:01:07 +0000      315 bytes  docs/webapi/grabAttributeFrom.mustache</tspan>
-<tspan x="10" y="970"> 59.  2017-04-21 07:01:07 +0000      208 bytes  docs/webapi/grabCookie.mustache</tspan>
-<tspan x="10" y="986"> 60.  2017-04-21 07:01:07 +0000      278 bytes  docs/webapi/grabTextFrom.mustache</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-21 07:01:07 +0000      178 bytes  docs/webapi/grabTitle.mustache</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-21 07:01:07 +0000      308 bytes  docs/webapi/grabValueFrom.mustache</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-21 07:01:07 +0000      171 bytes  docs/webapi/moveCursorTo.mustache</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-21 07:01:07 +0000      390 bytes  docs/webapi/pressKey.mustache</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-21 07:01:07 +0000      138 bytes  docs/webapi/resizeWindow.mustache</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-21 07:01:07 +0000      155 bytes  docs/webapi/saveScreenshot.mustache</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-21 07:01:07 +0000      397 bytes  docs/webapi/see.mustache</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-21 07:01:07 +0000      288 bytes  docs/webapi/seeCheckboxIsChecked.mustache</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-21 07:01:07 +0000       86 bytes  docs/webapi/seeCookie.mustache</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-21 07:01:07 +0000      259 bytes  docs/webapi/seeCurrentUrlEquals.mustache</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-21 07:01:07 +0000      160 bytes  docs/webapi/seeElement.mustache</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-21 07:01:07 +0000      176 bytes  docs/webapi/seeElementInDOM.mustache</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-21 07:01:07 +0000      138 bytes  docs/webapi/seeInCurrentUrl.mustache</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-21 07:01:07 +0000      443 bytes  docs/webapi/seeInField.mustache</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-21 07:01:07 +0000      149 bytes  docs/webapi/seeInSource.mustache</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-21 07:01:07 +0000       45 bytes  docs/webapi/seeInTitle.mustache</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-21 07:01:07 +0000      728 bytes  docs/webapi/selectOption.mustache</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-21 07:01:07 +0000       80 bytes  docs/webapi/setCookie.mustache</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-21 07:01:07 +0000       90 bytes  docs/webapi/wait.mustache</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-21 07:01:07 +0000      317 bytes  docs/webapi/waitForElement.mustache</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-21 07:01:07 +0000      210 bytes  docs/webapi/waitForEnabled.mustache</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-21 07:01:07 +0000      265 bytes  docs/webapi/waitForInvisible.mustache</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-21 07:01:07 +0000      281 bytes  docs/webapi/waitForStalenessOf.mustache</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-21 07:01:07 +0000      385 bytes  docs/webapi/waitForText.mustache</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-21 07:01:07 +0000      260 bytes  docs/webapi/waitForVisible.mustache</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-21 07:01:07 +0000     1936 bytes  lib/actor.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-21 07:01:07 +0000     1964 bytes  lib/assert.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-21 07:01:07 +0000     1272 bytes  lib/assert/empty.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-21 07:01:07 +0000     1576 bytes  lib/assert/equal.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-21 07:01:07 +0000      991 bytes  lib/assert/error.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-21 07:01:07 +0000     2629 bytes  lib/assert/include.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-21 07:01:07 +0000     1119 bytes  lib/assert/truth.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-21 07:01:07 +0000     2971 bytes  lib/codecept.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-21 07:01:07 +0000     2925 bytes  lib/command/definitions.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-21 07:01:07 +0000     5715 bytes  lib/command/generate.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-21 07:01:07 +0000     6111 bytes  lib/command/init.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-21 07:01:07 +0000     1010 bytes  lib/command/interactive.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-21 07:01:07 +0000     1671 bytes  lib/command/list.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-21 07:01:07 +0000     4252 bytes  lib/command/run-multiple.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-21 07:01:07 +0000     1347 bytes  lib/command/run.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-21 07:01:07 +0000      742 bytes  lib/command/utils.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-21 07:01:07 +0000     2486 bytes  lib/config.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-21 07:01:07 +0000     4700 bytes  lib/container.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-21 07:01:07 +0000     1353 bytes  lib/event.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-21 07:01:07 +0000     1856 bytes  lib/helper.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-21 07:01:07 +0000     2405 bytes  lib/helper/FileSystem.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-21 07:01:07 +0000    30770 bytes  lib/helper/Nightmare.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-21 07:01:07 +0000    16066 bytes  lib/helper/Protractor.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-21 07:01:07 +0000    27304 bytes  lib/helper/SeleniumWebdriver.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-21 07:01:07 +0000    37825 bytes  lib/helper/WebDriverIO.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-21 07:01:07 +0000     3211 bytes  lib/helper/clientscripts/nightmare.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-21 07:01:07 +0000      949 bytes  lib/hooks.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-21 07:01:07 +0000      450 bytes  lib/index.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-21 07:01:07 +0000     3303 bytes  lib/interfaces/bdd.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-21 07:01:07 +0000      839 bytes  lib/listener/exit.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-21 07:01:07 +0000     1789 bytes  lib/listener/helpers.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-21 07:01:07 +0000      735 bytes  lib/listener/steps.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-21 07:01:07 +0000      995 bytes  lib/listener/trace.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-21 07:01:07 +0000     1111 bytes  lib/mocha_factory.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-21 07:01:07 +0000     3202 bytes  lib/output.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-21 07:01:07 +0000     2056 bytes  lib/pause.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-21 07:01:07 +0000     3231 bytes  lib/recorder.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-21 07:01:07 +0000     2689 bytes  lib/reporter/cli.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-21 07:01:07 +0000     3462 bytes  lib/scenario.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-21 07:01:07 +0000     2054 bytes  lib/step.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-21 07:01:07 +0000      492 bytes  lib/translation.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-21 07:01:07 +0000     3406 bytes  lib/utils.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-21 07:01:07 +0000     1293 bytes  lib/within.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-21 07:01:07 +0000     1678 bytes  package.json</tspan>
-<tspan x="10" y="2106">130.  2017-04-21 07:01:07 +0000      155 bytes  translations/index.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-21 07:01:07 +0000     2324 bytes  translations/it-IT.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-21 07:01:07 +0000     2551 bytes  translations/pl-PL.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-21 07:01:07 +0000     2108 bytes  translations/pt-BR.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-21 07:01:07 +0000     2284 bytes  translations/ru-RU.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 07:02:19 +0000   569487 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 07:02:19 +0000    15932 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 07:02:19 +0000     1120 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 07:02:19 +0000    10076 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 07:02:19 +0000     4386 bytes  bin/codecept.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 07:02:19 +0000     7946 bytes  docs/acceptance.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 07:02:19 +0000     3020 bytes  docs/advanced.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 07:02:19 +0000    10262 bytes  docs/angular.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 07:02:19 +0000      853 bytes  docs/api/codecept.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 07:02:19 +0000      625 bytes  docs/api/config.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 07:02:19 +0000      669 bytes  docs/api/container.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 07:02:19 +0000      921 bytes  docs/api/helper.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 07:02:19 +0000      493 bytes  docs/api/output.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 07:02:19 +0000      757 bytes  docs/api/recorder.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 07:02:19 +0000     6819 bytes  docs/basics.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 07:02:19 +0000     2405 bytes  docs/build/FileSystem.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 07:02:19 +0000    41516 bytes  docs/build/Nightmare.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 07:02:19 +0000    26756 bytes  docs/build/Protractor.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 07:02:19 +0000    38895 bytes  docs/build/SeleniumWebdriver.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 07:02:19 +0000    49599 bytes  docs/build/WebDriverIO.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 07:02:19 +0000     2201 bytes  docs/commands.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 07:02:19 +0000     2623 bytes  docs/configuration.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 07:02:19 +0000     2113 bytes  docs/docker.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 07:02:19 +0000     6209 bytes  docs/helpers.md</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 07:02:19 +0000     1014 bytes  docs/helpers/FileSystem.md</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 07:02:19 +0000    16839 bytes  docs/helpers/Nightmare.md</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 07:02:19 +0000    16907 bytes  docs/helpers/Protractor.md</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 07:02:19 +0000    17535 bytes  docs/helpers/SeleniumWebdriver.md</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 07:02:19 +0000    24250 bytes  docs/helpers/WebDriverIO.md</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 07:02:19 +0000     9255 bytes  docs/hooks.md</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 07:02:19 +0000        0 bytes  docs/index.md</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 07:02:19 +0000     2473 bytes  docs/installation.md</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 07:02:19 +0000     8274 bytes  docs/nightmare.md</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 07:02:19 +0000     4005 bytes  docs/pageobjects.md</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 07:02:19 +0000     3873 bytes  docs/quickstart.md</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 07:02:19 +0000     3609 bytes  docs/reports.md</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 07:02:19 +0000     2677 bytes  docs/translation.md</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 07:02:19 +0000      338 bytes  docs/webapi/amOnPage.mustache</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 07:02:19 +0000      226 bytes  docs/webapi/appendField.mustache</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 07:02:19 +0000      476 bytes  docs/webapi/attachFile.mustache</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 07:02:19 +0000      439 bytes  docs/webapi/checkOption.mustache</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 07:02:19 +0000      136 bytes  docs/webapi/clearCookie.mustache</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 07:02:19 +0000      203 bytes  docs/webapi/clearField.mustache</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 07:02:19 +0000      911 bytes  docs/webapi/click.mustache</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 07:02:19 +0000      302 bytes  docs/webapi/dontSee.mustache</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 07:02:19 +0000      114 bytes  docs/webapi/dontSeeCheckboxIsChecked.mustache</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 07:02:19 +0000       63 bytes  docs/webapi/dontSeeCookie.mustache</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 07:02:19 +0000      135 bytes  docs/webapi/dontSeeCurrentUrlEquals.mustache</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 07:02:19 +0000      112 bytes  docs/webapi/dontSeeElement.mustache</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 07:02:19 +0000      118 bytes  docs/webapi/dontSeeElementInDOM.mustache</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 07:02:19 +0000       73 bytes  docs/webapi/dontSeeInCurrentUrl.mustache</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 07:02:19 +0000      208 bytes  docs/webapi/dontSeeInField.mustache</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 07:02:19 +0000       90 bytes  docs/webapi/dontSeeInSource.mustache</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 07:02:19 +0000       53 bytes  docs/webapi/dontSeeInTitle.mustache</tspan>
+<tspan x="10" y="890"> 54.  2017-04-21 07:02:19 +0000      310 bytes  docs/webapi/doubleClick.mustache</tspan>
+<tspan x="10" y="906"> 55.  2017-04-21 07:02:19 +0000      802 bytes  docs/webapi/executeAsyncScript.mustache</tspan>
+<tspan x="10" y="922"> 56.  2017-04-21 07:02:19 +0000      745 bytes  docs/webapi/executeScript.mustache</tspan>
+<tspan x="10" y="938"> 57.  2017-04-21 07:02:19 +0000      465 bytes  docs/webapi/fillField.mustache</tspan>
+<tspan x="10" y="954"> 58.  2017-04-21 07:02:19 +0000      315 bytes  docs/webapi/grabAttributeFrom.mustache</tspan>
+<tspan x="10" y="970"> 59.  2017-04-21 07:02:19 +0000      208 bytes  docs/webapi/grabCookie.mustache</tspan>
+<tspan x="10" y="986"> 60.  2017-04-21 07:02:19 +0000      278 bytes  docs/webapi/grabTextFrom.mustache</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-21 07:02:19 +0000      178 bytes  docs/webapi/grabTitle.mustache</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-21 07:02:19 +0000      308 bytes  docs/webapi/grabValueFrom.mustache</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-21 07:02:19 +0000      171 bytes  docs/webapi/moveCursorTo.mustache</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-21 07:02:19 +0000      390 bytes  docs/webapi/pressKey.mustache</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-21 07:02:19 +0000      138 bytes  docs/webapi/resizeWindow.mustache</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-21 07:02:19 +0000      155 bytes  docs/webapi/saveScreenshot.mustache</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-21 07:02:19 +0000      397 bytes  docs/webapi/see.mustache</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-21 07:02:19 +0000      288 bytes  docs/webapi/seeCheckboxIsChecked.mustache</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-21 07:02:19 +0000       86 bytes  docs/webapi/seeCookie.mustache</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-21 07:02:19 +0000      259 bytes  docs/webapi/seeCurrentUrlEquals.mustache</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-21 07:02:19 +0000      160 bytes  docs/webapi/seeElement.mustache</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-21 07:02:19 +0000      176 bytes  docs/webapi/seeElementInDOM.mustache</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-21 07:02:19 +0000      138 bytes  docs/webapi/seeInCurrentUrl.mustache</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-21 07:02:19 +0000      443 bytes  docs/webapi/seeInField.mustache</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-21 07:02:19 +0000      149 bytes  docs/webapi/seeInSource.mustache</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-21 07:02:19 +0000       45 bytes  docs/webapi/seeInTitle.mustache</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-21 07:02:19 +0000      728 bytes  docs/webapi/selectOption.mustache</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-21 07:02:19 +0000       80 bytes  docs/webapi/setCookie.mustache</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-21 07:02:19 +0000       90 bytes  docs/webapi/wait.mustache</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-21 07:02:19 +0000      317 bytes  docs/webapi/waitForElement.mustache</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-21 07:02:19 +0000      210 bytes  docs/webapi/waitForEnabled.mustache</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-21 07:02:19 +0000      265 bytes  docs/webapi/waitForInvisible.mustache</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-21 07:02:19 +0000      281 bytes  docs/webapi/waitForStalenessOf.mustache</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-21 07:02:19 +0000      385 bytes  docs/webapi/waitForText.mustache</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-21 07:02:19 +0000      260 bytes  docs/webapi/waitForVisible.mustache</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-21 07:02:19 +0000     1936 bytes  lib/actor.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-21 07:02:19 +0000     1964 bytes  lib/assert.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-21 07:02:19 +0000     1272 bytes  lib/assert/empty.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-21 07:02:19 +0000     1576 bytes  lib/assert/equal.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-21 07:02:19 +0000      991 bytes  lib/assert/error.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-21 07:02:19 +0000     2629 bytes  lib/assert/include.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-21 07:02:19 +0000     1119 bytes  lib/assert/truth.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-21 07:02:19 +0000     2971 bytes  lib/codecept.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-21 07:02:19 +0000     2925 bytes  lib/command/definitions.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-21 07:02:19 +0000     5715 bytes  lib/command/generate.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-21 07:02:19 +0000     6111 bytes  lib/command/init.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-21 07:02:19 +0000     1010 bytes  lib/command/interactive.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-21 07:02:19 +0000     1671 bytes  lib/command/list.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-21 07:02:19 +0000     4252 bytes  lib/command/run-multiple.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-21 07:02:19 +0000     1347 bytes  lib/command/run.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-21 07:02:19 +0000      742 bytes  lib/command/utils.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-21 07:02:19 +0000     2486 bytes  lib/config.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-21 07:02:19 +0000     4700 bytes  lib/container.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-21 07:02:19 +0000     1353 bytes  lib/event.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-21 07:02:19 +0000     1856 bytes  lib/helper.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-21 07:02:19 +0000     2405 bytes  lib/helper/FileSystem.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-21 07:02:19 +0000    30770 bytes  lib/helper/Nightmare.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-21 07:02:19 +0000    16066 bytes  lib/helper/Protractor.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-21 07:02:19 +0000    27304 bytes  lib/helper/SeleniumWebdriver.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-21 07:02:19 +0000    37825 bytes  lib/helper/WebDriverIO.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-21 07:02:19 +0000     3211 bytes  lib/helper/clientscripts/nightmare.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-21 07:02:19 +0000      949 bytes  lib/hooks.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-21 07:02:19 +0000      450 bytes  lib/index.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-21 07:02:19 +0000     3303 bytes  lib/interfaces/bdd.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-21 07:02:19 +0000      839 bytes  lib/listener/exit.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-21 07:02:19 +0000     1789 bytes  lib/listener/helpers.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-21 07:02:19 +0000      735 bytes  lib/listener/steps.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-21 07:02:19 +0000      995 bytes  lib/listener/trace.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-21 07:02:19 +0000     1111 bytes  lib/mocha_factory.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-21 07:02:19 +0000     3202 bytes  lib/output.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-21 07:02:19 +0000     2056 bytes  lib/pause.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-21 07:02:19 +0000     3231 bytes  lib/recorder.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-21 07:02:19 +0000     2689 bytes  lib/reporter/cli.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-21 07:02:19 +0000     3462 bytes  lib/scenario.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-21 07:02:19 +0000     2054 bytes  lib/step.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-21 07:02:19 +0000      492 bytes  lib/translation.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-21 07:02:19 +0000     3406 bytes  lib/utils.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-21 07:02:19 +0000     1293 bytes  lib/within.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-21 07:02:19 +0000     1678 bytes  package.json</tspan>
+<tspan x="10" y="2106">130.  2017-04-21 07:02:19 +0000      155 bytes  translations/index.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-21 07:02:19 +0000     2324 bytes  translations/it-IT.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-21 07:02:19 +0000     2551 bytes  translations/pl-PL.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-21 07:02:19 +0000     2108 bytes  translations/pt-BR.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-21 07:02:19 +0000     2284 bytes  translations/ru-RU.js</tspan>
 </text>
 </svg>
